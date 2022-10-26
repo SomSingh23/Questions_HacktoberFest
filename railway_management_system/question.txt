@@ -1,0 +1,5 @@
+create railway reservation system based on:
+  1. total no. of available seats should input from user and allocate randomly 
+  2. create details of reservation using data
+  3. display message when seats are not available
+  4. display total statistics of cancel, reserve, available seats 
