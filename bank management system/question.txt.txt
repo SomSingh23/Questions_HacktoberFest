@@ -1,0 +1,1 @@
+Q: design a bank logic of deposit and withdraw using class and member functions.
