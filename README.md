@@ -13,7 +13,7 @@
 
 ### 2. Make a new folder with you question name as folder name
 
-### 3. Inside that folder make a `pdf/txt` file for Question and Answer
+### 3. Inside that folder make a `pdf/txt` file for Question and `cpp/c/py/java/go` file for Answer
 
 ### 4. Commit your changes
 
